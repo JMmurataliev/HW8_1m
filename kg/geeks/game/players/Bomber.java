@@ -20,8 +20,8 @@ public class Bomber extends Hero implements Fighter {
 
     @Override
     public void applySuperPower(Boss boss, Hero[] heroes) {
-        boss.setHealth(boss.getHealth() - boss.getHealth();
 
 
 
+    }
 }
