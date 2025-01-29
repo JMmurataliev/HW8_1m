@@ -5,7 +5,7 @@ public enum SuperAbility {
     BOOST,
     HEAL,
     BLOCK_AND_REVERT,
-    SUICIDE_SQUAD,
+    SWITCH,
     DEFENCE,
     LAND_MINE // Минер ставит невидимую мину в указанном месте.
     // Мина остается на месте до тех пор, пока вражеский юнит на неё не наступит.
